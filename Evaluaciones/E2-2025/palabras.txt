@@ -1,0 +1,5 @@
+barco
+auto
+zapato
+queso
+zapatilla
